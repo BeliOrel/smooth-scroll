@@ -1,3 +1,5 @@
+// Doesn't work as it should!!!
+
 function smoothScroll(target, duration) {
     target = document.querySelector(target);
     let targetPosition = target.getBoundingClientRect().top;
