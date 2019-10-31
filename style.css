@@ -107,6 +107,15 @@ a {
     padding-right: 0.5rem;
 }
 
+.navigation a {
+    color: white;
+    font-weight: 700;
+}
+
+.navigation a:hover {
+    color: black;
+}
+
 .navigation.is-fixed {
     position: fixed;
     top: 0;
